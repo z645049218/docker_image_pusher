@@ -7,4 +7,4 @@ xhofe/alist:latest
 netdata/netdata
 
 gethomepage/homepage
-
+open-webui/open-webui
